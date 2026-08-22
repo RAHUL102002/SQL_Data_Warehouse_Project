@@ -188,8 +188,8 @@ sql-data-warehouse-analytics/
 ## 📊 Dashboard: Sales & Customer Analytics
 
 The Gold layer feeds directly into an interactive dashboard covering sales performance and customer behavior.
+<img width="1544" height="872" alt="image" src="https://github.com/user-attachments/assets/822eef18-ca14-4338-931d-9293dafa8494" />
 
-dashboard/gold.dashboard_screenshot.webp
 
 **Headline metrics:**
 
